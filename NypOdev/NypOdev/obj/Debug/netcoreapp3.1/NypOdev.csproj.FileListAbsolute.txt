@@ -1,0 +1,16 @@
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\bin\Debug\netcoreapp3.1\NypOdev.exe
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\bin\Debug\netcoreapp3.1\NypOdev.deps.json
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\bin\Debug\netcoreapp3.1\NypOdev.runtimeconfig.json
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\bin\Debug\netcoreapp3.1\NypOdev.runtimeconfig.dev.json
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\bin\Debug\netcoreapp3.1\NypOdev.dll
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\bin\Debug\netcoreapp3.1\NypOdev.pdb
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.csproj.AssemblyReference.cache
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.Form1.resources
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.csproj.GenerateResource.cache
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.AssemblyInfoInputs.cache
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.AssemblyInfo.cs
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.csproj.CoreCompileInputs.cache
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.dll
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.pdb
+C:\Users\borak\Desktop\NYP ODEV\NypOdev\NypOdev\obj\Debug\netcoreapp3.1\NypOdev.genruntimeconfig.cache
